@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 1350ff9e75a1799499bc4d8fd2d56052
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: group1_Room_with_fixtures:Box003
+    100002: group1_Room_with_fixtures:Box007
+    100004: group1_Room_with_fixtures:Box008
+    100006: group1_Room_with_fixtures:Box013
+    100008: group1_Room_with_fixtures:Box014
+    100010: group1_Room_with_fixtures:Box015
+    100012: group1_Room_with_fixtures:Box016
+    100014: group1_Room_with_fixtures:Box017
+    100016: group1_Room_with_fixtures:ceiling_molding
+    100018: group1_Room_with_fixtures:door_1
+    100020: group1_Room_with_fixtures:door_2
+    100022: group1_Room_with_fixtures:Door_frame
+    100024: group1_Room_with_fixtures:Door_frame001
+    100026: group1_Room_with_fixtures:fireplace
+    100028: group1_Room_with_fixtures:fireplace_rack
+    100030: group1_Room_with_fixtures:floor
+    100032: group1_Room_with_fixtures:Lower_molding
+    100034: group1_Room_with_fixtures:Rug
+    100036: group1_Room_with_fixtures:Window
+    100038: group1_Room_with_fixtures:Window001
+    100040: group1_Room_with_fixtures:Window002
+    100042: group1_Room_with_fixtures:Window003
+    100044: group1_Room_with_fixtures:window_pane
+    100046: group1_Room_with_fixtures:window_pane001
+    100048: group1_Room_with_fixtures:window_pane002
+    100050: group1_Room_with_fixtures:window_pane003
+    100052: group1_Room_with_fixtures:window_sill
+    100054: group1_Room_with_fixtures:window_sill001
+    100056: group1_Room_with_fixtures:window_sill002
+    100058: group1_Room_with_fixtures:window_sill003
+    100060: //RootNode
+    100062: Room_with_fixtures:Rectangle001_group1
+    400000: group1_Room_with_fixtures:Box003
+    400002: group1_Room_with_fixtures:Box007
+    400004: group1_Room_with_fixtures:Box008
+    400006: group1_Room_with_fixtures:Box013
+    400008: group1_Room_with_fixtures:Box014
+    400010: group1_Room_with_fixtures:Box015
+    400012: group1_Room_with_fixtures:Box016
+    400014: group1_Room_with_fixtures:Box017
+    400016: group1_Room_with_fixtures:ceiling_molding
+    400018: group1_Room_with_fixtures:door_1
+    400020: group1_Room_with_fixtures:door_2
+    400022: group1_Room_with_fixtures:Door_frame
+    400024: group1_Room_with_fixtures:Door_frame001
+    400026: group1_Room_with_fixtures:fireplace
+    400028: group1_Room_with_fixtures:fireplace_rack
+    400030: group1_Room_with_fixtures:floor
+    400032: group1_Room_with_fixtures:Lower_molding
+    400034: group1_Room_with_fixtures:Rug
+    400036: group1_Room_with_fixtures:Window
+    400038: group1_Room_with_fixtures:Window001
+    400040: group1_Room_with_fixtures:Window002
+    400042: group1_Room_with_fixtures:Window003
+    400044: group1_Room_with_fixtures:window_pane
+    400046: group1_Room_with_fixtures:window_pane001
+    400048: group1_Room_with_fixtures:window_pane002
+    400050: group1_Room_with_fixtures:window_pane003
+    400052: group1_Room_with_fixtures:window_sill
+    400054: group1_Room_with_fixtures:window_sill001
+    400056: group1_Room_with_fixtures:window_sill002
+    400058: group1_Room_with_fixtures:window_sill003
+    400060: //RootNode
+    400062: Room_with_fixtures:Rectangle001_group1
+    2100000: group1_Room_with_fixtures_Box003Mat
+    2100002: group1_Room_with_fixtures_Box007Mat
+    2100004: group1_Room_with_fixtures_Box008Mat
+    2100006: group1_Room_with_fixtures_Box013Mat
+    2100008: group1_Room_with_fixtures_Box014Mat
+    2100010: group1_Room_with_fixtures_Box015Mat
+    2100012: group1_Room_with_fixtures_Box016Mat
+    2100014: group1_Room_with_fixtures_Box017Mat
+    2100016: group1_Room_with_fixtures_ceiling_moldingMat
+    2100018: group1_Room_with_fixtures_door_1Mat
+    2100020: group1_Room_with_fixtures_door_2Mat
+    2100022: group1_Room_with_fixtures_Door_frameMat
+    2100024: group1_Room_with_fixtures_Door_frame001Mat
+    2100026: group1_Room_with_fixtures_fireplaceMat
+    2100028: group1_Room_with_fixtures_fireplace_rackMat
+    2100030: group1_Room_with_fixtures_floorMat
+    2100032: group1_Room_with_fixtures_Lower_moldingMat
+    2100034: group1_Room_with_fixtures_RugMat
+    2100036: group1_Room_with_fixtures_WindowMat
+    2100038: group1_Room_with_fixtures_Window001Mat
+    2100040: group1_Room_with_fixtures_Window002Mat
+    2100042: group1_Room_with_fixtures_Window003Mat
+    2100044: group1_Room_with_fixtures_window_paneMat
+    2100046: group1_Room_with_fixtures_window_pane001Mat
+    2100048: group1_Room_with_fixtures_window_pane002Mat
+    2100050: group1_Room_with_fixtures_window_pane003Mat
+    2100052: group1_Room_with_fixtures_window_sillMat
+    2100054: group1_Room_with_fixtures_window_sill001Mat
+    2100056: group1_Room_with_fixtures_window_sill002Mat
+    2100058: group1_Room_with_fixtures_window_sill003Mat
+    2100060: Room_with_fixtures_Rectangle001_group1Mat
+    2300000: group1_Room_with_fixtures:Box003
+    2300002: group1_Room_with_fixtures:Box007
+    2300004: group1_Room_with_fixtures:Box008
+    2300006: group1_Room_with_fixtures:Box013
+    2300008: group1_Room_with_fixtures:Box014
+    2300010: group1_Room_with_fixtures:Box015
+    2300012: group1_Room_with_fixtures:Box016
+    2300014: group1_Room_with_fixtures:Box017
+    2300016: group1_Room_with_fixtures:ceiling_molding
+    2300018: group1_Room_with_fixtures:door_1
+    2300020: group1_Room_with_fixtures:door_2
+    2300022: group1_Room_with_fixtures:Door_frame
+    2300024: group1_Room_with_fixtures:Door_frame001
+    2300026: group1_Room_with_fixtures:fireplace
+    2300028: group1_Room_with_fixtures:fireplace_rack
+    2300030: group1_Room_with_fixtures:floor
+    2300032: group1_Room_with_fixtures:Lower_molding
+    2300034: group1_Room_with_fixtures:Rug
+    2300036: group1_Room_with_fixtures:Window
+    2300038: group1_Room_with_fixtures:Window001
+    2300040: group1_Room_with_fixtures:Window002
+    2300042: group1_Room_with_fixtures:Window003
+    2300044: group1_Room_with_fixtures:window_pane
+    2300046: group1_Room_with_fixtures:window_pane001
+    2300048: group1_Room_with_fixtures:window_pane002
+    2300050: group1_Room_with_fixtures:window_pane003
+    2300052: group1_Room_with_fixtures:window_sill
+    2300054: group1_Room_with_fixtures:window_sill001
+    2300056: group1_Room_with_fixtures:window_sill002
+    2300058: group1_Room_with_fixtures:window_sill003
+    2300060: Room_with_fixtures:Rectangle001_group1
+    3300000: group1_Room_with_fixtures:Box003
+    3300002: group1_Room_with_fixtures:Box007
+    3300004: group1_Room_with_fixtures:Box008
+    3300006: group1_Room_with_fixtures:Box013
+    3300008: group1_Room_with_fixtures:Box014
+    3300010: group1_Room_with_fixtures:Box015
+    3300012: group1_Room_with_fixtures:Box016
+    3300014: group1_Room_with_fixtures:Box017
+    3300016: group1_Room_with_fixtures:ceiling_molding
+    3300018: group1_Room_with_fixtures:door_1
+    3300020: group1_Room_with_fixtures:door_2
+    3300022: group1_Room_with_fixtures:Door_frame
+    3300024: group1_Room_with_fixtures:Door_frame001
+    3300026: group1_Room_with_fixtures:fireplace
+    3300028: group1_Room_with_fixtures:fireplace_rack
+    3300030: group1_Room_with_fixtures:floor
+    3300032: group1_Room_with_fixtures:Lower_molding
+    3300034: group1_Room_with_fixtures:Rug
+    3300036: group1_Room_with_fixtures:Window
+    3300038: group1_Room_with_fixtures:Window001
+    3300040: group1_Room_with_fixtures:Window002
+    3300042: group1_Room_with_fixtures:Window003
+    3300044: group1_Room_with_fixtures:window_pane
+    3300046: group1_Room_with_fixtures:window_pane001
+    3300048: group1_Room_with_fixtures:window_pane002
+    3300050: group1_Room_with_fixtures:window_pane003
+    3300052: group1_Room_with_fixtures:window_sill
+    3300054: group1_Room_with_fixtures:window_sill001
+    3300056: group1_Room_with_fixtures:window_sill002
+    3300058: group1_Room_with_fixtures:window_sill003
+    3300060: Room_with_fixtures:Rectangle001_group1
+    4300000: group1_Room_with_fixtures:Box003
+    4300002: group1_Room_with_fixtures:Box007
+    4300004: group1_Room_with_fixtures:Box008
+    4300006: group1_Room_with_fixtures:Box013
+    4300008: group1_Room_with_fixtures:Box014
+    4300010: group1_Room_with_fixtures:Box015
+    4300012: group1_Room_with_fixtures:Box016
+    4300014: group1_Room_with_fixtures:Box017
+    4300016: group1_Room_with_fixtures:ceiling_molding
+    4300018: group1_Room_with_fixtures:door_1
+    4300020: group1_Room_with_fixtures:door_2
+    4300022: group1_Room_with_fixtures:Door_frame
+    4300024: group1_Room_with_fixtures:Door_frame001
+    4300026: group1_Room_with_fixtures:fireplace
+    4300028: group1_Room_with_fixtures:fireplace_rack
+    4300030: group1_Room_with_fixtures:floor
+    4300032: group1_Room_with_fixtures:Lower_molding
+    4300034: group1_Room_with_fixtures:Rug
+    4300036: group1_Room_with_fixtures:Window
+    4300038: group1_Room_with_fixtures:Window001
+    4300040: group1_Room_with_fixtures:Window002
+    4300042: group1_Room_with_fixtures:Window003
+    4300044: group1_Room_with_fixtures:window_pane
+    4300046: group1_Room_with_fixtures:window_pane001
+    4300048: group1_Room_with_fixtures:window_pane002
+    4300050: group1_Room_with_fixtures:window_pane003
+    4300052: group1_Room_with_fixtures:window_sill
+    4300054: group1_Room_with_fixtures:window_sill001
+    4300056: group1_Room_with_fixtures:window_sill002
+    4300058: group1_Room_with_fixtures:window_sill003
+    4300060: Room_with_fixtures:Rectangle001_group1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_with_fixtures_Rectangle001_group1Mat
+    second: {fileID: 2100000, guid: c3cbe0268d494714b9b6bbe786ed58d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Box003Mat
+    second: {fileID: 2100000, guid: 7229b49e4e6099a468b4903f04582a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Box007Mat
+    second: {fileID: 2100000, guid: 3febce4980c2c864d803873955459bca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Box008Mat
+    second: {fileID: 2100000, guid: fef88ee4795d68542af3bd68c5266a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Box013Mat
+    second: {fileID: 2100000, guid: 59456b11d31367c4381ecf2cd7e145c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Box014Mat
+    second: {fileID: 2100000, guid: 7faab63afd8f4e440ad5daf799fb1b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Box015Mat
+    second: {fileID: 2100000, guid: f6e0f89e9ec0a224ba1c25aed977f271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Box016Mat
+    second: {fileID: 2100000, guid: 22de1a07da4906242a4737560140510e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Box017Mat
+    second: {fileID: 2100000, guid: 4ad456091e49e29489bc3127bb27900f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Door_frame001Mat
+    second: {fileID: 2100000, guid: 1355e09f4ec751a409bab8e28d1360b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Door_frameMat
+    second: {fileID: 2100000, guid: 1352939c3c1f980408625040ba2c2ac3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Lower_moldingMat
+    second: {fileID: 2100000, guid: 913e430e912b5b94ca3e2590ae30afb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_RugMat
+    second: {fileID: 2100000, guid: 4677f3279148ea84bb28bb08faae454d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Window001Mat
+    second: {fileID: 2100000, guid: dcaa35d8843b30d4e90e10edb21a208e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Window002Mat
+    second: {fileID: 2100000, guid: 70f88d8370886584094679d20b270ed7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_Window003Mat
+    second: {fileID: 2100000, guid: dcd252d38f2a2954ea12ba1c1d739547, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_WindowMat
+    second: {fileID: 2100000, guid: 49a0db2510a430e488a93e3acc326d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_ceiling_moldingMat
+    second: {fileID: 2100000, guid: a57f655731404de46af6653e5f1e969d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_door_1Mat
+    second: {fileID: 2100000, guid: fb9faa3fe491b7e40971d9b007b8f257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_door_2Mat
+    second: {fileID: 2100000, guid: 9ba0f9d6376293b44abfd8f198bbcb62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_fireplaceMat
+    second: {fileID: 2100000, guid: 334e5f83050bbb44eb71d1446370dade, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_fireplace_rackMat
+    second: {fileID: 2100000, guid: 058739b7c4e932b49849a5544127866a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_floorMat
+    second: {fileID: 2100000, guid: ae1cb7f3d49f85049a579a56b2f97a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_window_pane001Mat
+    second: {fileID: 2100000, guid: df5f4880b45cf9d459cdc50652a16c69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_window_pane002Mat
+    second: {fileID: 2100000, guid: bf21f0b8cd272794baa567dc17ee4df4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_window_pane003Mat
+    second: {fileID: 2100000, guid: 4fbb453c848d7d449bec3117718903ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_window_paneMat
+    second: {fileID: 2100000, guid: 89ae1b6d4b24231449a48984cc3321ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_window_sill001Mat
+    second: {fileID: 2100000, guid: 5a365cd65052dcf4d88c9618d3a94561, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_window_sill002Mat
+    second: {fileID: 2100000, guid: 027dbd89995b51a4db0350b10ee8dfa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_window_sill003Mat
+    second: {fileID: 2100000, guid: deaf8f587754cf64c928bc7716302293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group1_Room_with_fixtures_window_sillMat
+    second: {fileID: 2100000, guid: b2271599be9b1ca49b6b4f88dc5e9747, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.025
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
